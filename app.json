@@ -22,7 +22,7 @@
         },
         "API_KEY": {
             "description": "Get API key from https://gplinks.in/member/tools/api",
-            "Value": "97c5fa355da833d926df0fc4562e7fb62f7263a2"
+            "required": false
         }
     },
     "addons": [],
